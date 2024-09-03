@@ -1,26 +1,26 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.0/cleed_Windows_i386.zip",
+            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.1/cleed_Windows_i386.zip",
             "bin": [
                 "cleed.exe"
             ],
-            "hash": "c7cffd6c32aa24c484f1ac598f2b7bdba1892c7a4fdc8542e727b1d55b9b03ad"
+            "hash": "7709bc731626ca6962850d878eb23afff4180c3006ec276766bbfb23621cae8e"
         },
         "64bit": {
-            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.0/cleed_Windows_x86_64.zip",
+            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.1/cleed_Windows_x86_64.zip",
             "bin": [
                 "cleed.exe"
             ],
-            "hash": "365f4da55ce4b172a98a2696d88581d67f26c6a4f9875bb4427e42952d6d059e"
+            "hash": "327fabfed7dee6abeee3e712ff8f25ad2569536b9038232babba049f55cc56a3"
         },
         "arm64": {
-            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.0/cleed_Windows_arm64.zip",
+            "url": "https://github.com/radulucut/cleed/releases/download/v0.2.1/cleed_Windows_arm64.zip",
             "bin": [
                 "cleed.exe"
             ],
-            "hash": "e9810569f9812a7af477df72f5ca4bdc5933ed5c6c10b9a86d4396642eafddb3"
+            "hash": "a25034ec30793649a179adf50321f2473dd528cab161ce03b613bba4acbd20f4"
         }
     },
     "homepage": "https://github.com/radulucut/cleed",
